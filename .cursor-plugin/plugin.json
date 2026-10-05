@@ -1,0 +1,15 @@
+{
+  "name": "postpen",
+  "displayName": "PostPen",
+  "version": "1.0.0",
+  "description": "Schedule and publish LinkedIn posts from your AI agent through PostPen.",
+  "author": {
+    "name": "Sparx IT Solutions Private Limited",
+    "email": "hello@postpen.ai"
+  },
+  "homepage": "https://postpen.ai",
+  "repository": "https://github.com/vikashsparxit/postpen-mcp",
+  "license": "MIT",
+  "keywords": ["mcp", "linkedin", "social-media", "scheduling", "postpen"],
+  "logo": "logo.png"
+}
