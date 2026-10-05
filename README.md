@@ -61,4 +61,4 @@ A PostPen account with LinkedIn connected. Company pages need the Organization o
 
 PostPen is built by SparxIT (Sparx IT Solutions Private Limited). LinkedIn is a trademark of LinkedIn Corporation; PostPen is not affiliated with LinkedIn.
 
-This repository contains documentation only. The server source is proprietary.
+This repository is the PostPen Cursor plugin package and install documentation (manifest, MCP config, docs and logos), released under the MIT License. The hosted PostPen server and app at mcp.postpen.ai are proprietary and not covered by this license.
